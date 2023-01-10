@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bab10</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_left_for_register">Swipe Left for Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tagLogin">Let\'s join us and \nLogin Your Account</string>
+    <string name="tagRegister">Let\'s Register Your Account And \nGo Back To Login</string>
+    <string name="swipe_right_for_login">Swipe Right for Login</string>
+    <string name="register">Register</string>
+    <string name="your_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">Novel ini menceritakan tentang seorang gadis berumur 18 tahun bernama Oriana Suri Laksita yang belum pernah memiliki kekasih. Selain ketiga kakak lelakinya yang overprotektif, kemampuan indera keenam yang dimilikinya mungkin juga menjadi penyebab dia belum pernah memiliki kekasih</string>
+    <string name="ingredients">Diskon minggu ini 60% OFF</string>
+    <string name="price">Harga :</string>
+    <string name="Harga">Rp.99.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="Zalora">
+        <item>NOIR</item>
+        <item>Aroma Karsa</item>
+        <item>Little Magacal Piya</item>
+    </string-array>
+    <string-array name="Star">
+        <item>5.0</item>
+        <item>4.7</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>99.000</item>
+        <item>89.000</item>
+        <item>79.000</item>
+    </string-array>
+</resources>
